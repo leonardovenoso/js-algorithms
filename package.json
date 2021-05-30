@@ -5,7 +5,8 @@
   "main": "",
   "type": "module",
   "scripts": {
-    "binary-search": "nodemon binarySearch.mjs"
+    "interactive-binary-search": "nodemon interactiveBinarySearch.mjs",
+    "recursive-sum": "nodemon recursiveSum.mjs"
   },
   "author": "",
   "license": "ISC",
