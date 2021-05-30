@@ -5,6 +5,7 @@
 2. npm run install
 <br />
 <br />
+
 ### **Interactive Binary Search**
 Binary search is an interactive algorithm to find a target value position. This search is achieved by splitting the array in half and discarding the other half that is either lower or higher than the target.
 
