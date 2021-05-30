@@ -1,6 +1,6 @@
 const recursiveSum = (numbers = []) => {
   if (numbers[0] === undefined) return 0
-  return numbers[0] + recursiveSum(numbers.splice(1))
+  return numbers[0] + recursiveSum(numbers.slice(1))
 }
 
 const result = recursiveSum([1, 2, 3, 4])
