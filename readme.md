@@ -14,7 +14,7 @@ Binary search is an interactive algorithm to find a target value position. This 
 <br/>
 <br/>
 ### **Recursive sum**
-The recursive sum is a sum algorithm that calls itself to sum an array of numbers. Its base case is an empty array.
+The recursive sum is an algorithm that calls itself to sum an array of numbers. Its base case is an empty array.
 Slice is chosen because it returns a copy of the modified array.
 
 **File:** recursiveSum.mjs
