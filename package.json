@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "interactive-binary-search": "nodemon interactiveBinarySearch.mjs",
-    "recursive-sum": "nodemon recursiveSum.mjs"
+    "recursive-sum": "nodemon recursiveSum.mjs",
+    "recursive-quicksort": "nodemon recursiveQuickSort.mjs"
   },
   "author": "",
   "license": "ISC",
