@@ -23,9 +23,7 @@ Slice is chosen because it returns a copy of the modified array.
 **Run:** npm run recursive-sum
 <br/>
 <br/>
-### ***Future improvements***
-* Unit tests
-* Peer reviews
+
 
 ### **Quicksort**
 Quicksort is an array sorting algorithm that falls into the category of divide and conquer algorithms. A pivot is selected, and the array is split into two smaller collections that are either smaller or bigger than the pivot. These steps are called recursively until the array is empty.
@@ -35,3 +33,9 @@ Quicksort is an array sorting algorithm that falls into the category of divide a
 **Run:** npm run recursive-quicksort
 <br/>
 <br/>
+
+
+
+### ***Future improvements***
+* Unit tests
+* Peer reviews
